@@ -3,6 +3,7 @@
   "displayName": "LSE in Python",
   "description": "A Sample Language Server Extension implemented in Python",
   "version": "0.0.1",
+  "publisher": "tacos",
   "engines": {
     "vscode": "^1.62.0"
   },
